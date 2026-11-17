@@ -1,6 +1,6 @@
-# ZHCIO
-
-### Think Beyond. Build Tomorrow.
+<p align="center">
+  <img src="assets/logo.png" alt="ZHCIO — Think Beyond. Build Tomorrow." width="720">
+</p>
 
 **AI · IT Architecture · Cybersecurity · Automation · Innovation**
 
