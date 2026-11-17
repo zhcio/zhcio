@@ -1,0 +1,35 @@
+# ZHCIO
+
+### Think Beyond. Build Tomorrow.
+
+**AI · IT Architecture · Cybersecurity · Automation · Innovation**
+
+> Exploring what lies beyond today's technology to imagine, design and build tomorrow's digital world.
+
+## About ZHCIO
+
+ZHCIO is my personal space for exploring emerging technologies, challenging established approaches, and turning ideas into practical solutions.
+
+My interests span artificial intelligence, agentic systems, enterprise architecture, cybersecurity, infrastructure and open-source innovation.
+
+## Areas of exploration
+
+- **AI & Agents** — Local AI, LLM gateways, RAG, orchestration and intelligent workflows.
+- **IT Architecture** — Secure, scalable and maintainable technology platforms.
+- **Cybersecurity** — Security by design, identity, access and resilience.
+- **Automation** — Connecting systems and reducing operational complexity.
+- **Innovation** — Prototyping, testing and sharing practical experiments.
+
+## Projects
+
+Repositories and demonstrations will be published here progressively.
+
+## Philosophy
+
+**Think Beyond.** Question assumptions and explore what comes next.
+
+**Build Tomorrow.** Turn promising ideas into useful, responsible technology.
+
+---
+
+*Independent projects and opinions. No confidential employer information is published here.*
